@@ -17,3 +17,9 @@
     border-radius: 1em;
     gap: 0.8em;
 }
+.card{
+    background-color: rgb(109, 16, 95);
+    border-radius: 1em;
+    color: white;
+    padding-bottom: 10%;
+}
